@@ -1,1 +1,1 @@
-console.log("STRIKE is Coming");
+console.log("Hello Sumit");
